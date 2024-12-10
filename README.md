@@ -1,1 +1,1 @@
-# Calligraphy-Style-Chinese-Characters-Images-Based-on-QT-Font
+# Calligraphy Style Chinese Characters Images Based on QT-Font
